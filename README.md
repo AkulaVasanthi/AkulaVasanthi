@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Problem Solving, Mini Projects, and exploring AI tools & automation<br><br>👯 I’m looking to collaborate on AI-based projects, Open Source, and innovative tech ideas<br><br>🤝 I’m looking for help with real-world project building, internships, and improving problem-solving skills<br><br>🌱 I’m currently learning Python, Java, AI tools, Problem Solving, and Automation<br><br>💬 Ask me about AI tools, coding basics(Theory), and tech content creation<br><br>⚡ Fun fact: I love exploring new AI tools and turning tech concepts into creative content!
+🔭 I’m currently working on Problem Solving, Mini Projects, and exploring AI tools & automation<br><br>👯 I’m looking to collaborate on AI-based projects, Open Source, and innovative tech ideas<br><br>🤝 I’m looking for help with real-world project building, internships, and improving problem-solving skills<br><br>🌱 I’m currently learning AI tools, Problem Solving, and Automation, AI Agents<br><br>💬 Ask me about AI tools, coding basics(Theory), Designs and tech content creation<br><br>⚡ Fun fact: I love exploring new AI tools and turning tech concepts into creative content!
 
 
 ## 🌐 Socials:
